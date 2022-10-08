@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ibrahim Mustafa</h1>
-<h3 align="center">MEAN Stack Devekoper</h3>
+<h3 align="center">MEAN Stack Developer</h3>
 
 - 📄 Know about my experiences [Here is my CV]https://drive.google.com/file/d/1e7OSAM_DjMM6mUNVXkNaF1TMG1NRyhEu/view?usp=sharing)
 
