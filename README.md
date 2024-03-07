@@ -6,18 +6,18 @@
 
 <h3 align="left"> Skills </h3>
 
-🤖 Machine Learning Algorithms and Models
-📊 Data Science Techniques
-📚 Object-Oriented Programming (OOP) in Python
-🧠 Deep Learning Frameworks (TensorFlow)
-📈 Data Structures and Algorithms for Optimization
-📊 Statistical Analysis and Probability Theory
-💻 Version Control with Git and GitHub
-⚙️ RESTful APIs for Model Deployment
-🧪 Experimentation and Evaluation Methods
-👩‍💻 Software Design Principles for AI Systems
-🛠️ Automation and Deployment Pipelines
-📝 Documentation and Communication Skills in Technical Writing
+- 🤖 Machine Learning Algorithms and Models
+- 📊 Data Science Techniques
+- 📚 Object-Oriented Programming (OOP) in Python
+- 🧠 Deep Learning Frameworks (TensorFlow)
+- 📈 Data Structures and Algorithms for Optimization
+- 📊 Statistical Analysis and Probability Theory
+- 💻 Version Control with Git and GitHub
+- ⚙️ RESTful APIs for Model Deployment
+- 🧪 Experimentation and Evaluation Methods
+- 👩‍💻 Software Design Principles for AI Systems
+- 🛠️ Automation and Deployment Pipelines
+- 📝 Documentation and Communication Skills in Technical Writing
 
 
 <h3 align="left">Connect with me</h3>
