@@ -1,18 +1,23 @@
 
 <h1 align="center">Hi 👋, I'm Ibrahim Mustafa</h1>
-<h3 align="center">MEAN Stack Developer</h3>
+<h3 align="center">Ai & Machine Learning Engineer</h3>
 
-- 📄 Know about my experiences [Here is my CV]https://drive.google.com/file/d/1zb-VhImvbdb5L6_1lhq-5IjKTsTJ74C8/view?usp=share_link)
+- 📄 Know about my experiences 
 
 <h3 align="left"> Skills </h3>
 
- - 💻 MEAN Stack
- - 📚OOP
- - 🛠 MVC
- - 📚 Data structure and Algorithms
- - 👨‍💻SOLID Principles
- - ⚙️RESTful API, Postman
- - ⚙️Git, GitHub
+🤖 Machine Learning Algorithms and Models
+📊 Data Science Techniques
+📚 Object-Oriented Programming (OOP) in Python
+🧠 Deep Learning Frameworks (TensorFlow)
+📈 Data Structures and Algorithms for Optimization
+📊 Statistical Analysis and Probability Theory
+💻 Version Control with Git and GitHub
+⚙️ RESTful APIs for Model Deployment
+🧪 Experimentation and Evaluation Methods
+👩‍💻 Software Design Principles for AI Systems
+🛠️ Automation and Deployment Pipelines
+📝 Documentation and Communication Skills in Technical Writing
 
 
 <h3 align="left">Connect with me</h3>
