@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Mustafa</h1>
 <h3 align="center">Ai & Machine Learning Engineer</h3>
 
-- 📄 Know about my experiences 
-
 <h3 align="left"> Skills </h3>
 
 - 🤖 Machine Learning Algorithms and Models
