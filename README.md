@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ibrahim Mustafa</h1>
-<h3 align="center">Ai & Machine Learning Engineer</h3>
+<h3 align="center">AI & Machine Learning Engineer</h3>
 
 <h3 align="left"> Skills </h3>
 
